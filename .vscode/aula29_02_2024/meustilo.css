@@ -1,0 +1,24 @@
+p{
+color: green;
+}
+
+p:hover{
+    color: #06a320;
+}
+
+.cor{
+    color: chocolate;
+    font-size: 32px ;
+    
+}
+#texto{
+    color:brown;
+    border: 1px solid black;
+    text-align: center;
+
+#texto2{
+    color:brown;
+    border: 1px solid rgb(94, 10, 10);
+    text-align: center;
+
+}
